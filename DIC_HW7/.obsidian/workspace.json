@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "08409bb1586bd555",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccf039cbacceb5cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -201,6 +185,27 @@
   },
   "active": "c89b523daf5ba1f1",
   "lastOpenFiles": [
+    "Screenshot 2025-11-30 062618.png",
+    "SRAM_WRITE_MISSION_2.png",
+    "SRAM_WRITE_MISSION_1.png",
+    "SRAM_WRITE_MISSION_1.png.ebc7048e.partial",
+    "SRAM_WRITE.png",
+    "SRAM_WRITE.png.d3cf1190.partial",
+    "SRAM_READ_MISSION_4.png",
+    "SRAM_READ_MISSION_4.png.912efd2d.partial",
+    "SRAM_READ.png",
+    "SRAM_READ.png.f74200d6.partial",
+    "SRAM_READ_MISSION_3.png",
+    "SRAM_READ_MISSION_3.png.4f921fce.partial",
+    "SRAM_CELL_3_wo_cap_symbol.png",
+    "SRAM_CELL_3_wo_cap_symbol.png.4cdb2b79.partial",
+    "SRAM_CELL_3_symbol.png",
+    "SRAM_CELL_3_symbol.png.23267e3a.partial",
+    "SRAM_CELL_3_WRITE.png",
+    "SRAM_CELL_3_wo_cap_schematic.png",
+    "SRAM_CELL_3_WRITE.png.d2444dc2.partial",
+    "SRAM_CELL_3_wo_cap_schematic.png.46dd0693.partial",
+    "SRAM_CELL_3_schematic.png.7393165c.partial",
     "Welcome.md"
   ]
 }
