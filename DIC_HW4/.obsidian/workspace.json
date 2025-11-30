@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "29885fa95382f19a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7de9396c1b3fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6a32f505174fa5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b0f8f7488438ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c69d57208a7970",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de3d91897a639ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f4862c93cfe3a41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a24b615169dbb7d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eea40914bea4a122",
+    "type": "split",
+    "children": [
+      {
+        "id": "307a3d1a867c0846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe4015a9094c4e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HW4 Report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HW4 Report"
+            }
+          },
+          {
+            "id": "c83b483c818e06ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HW4 Report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HW4 Report"
+            }
+          },
+          {
+            "id": "4c380975ee163ec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea66243c07d79bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HW4 Report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HW4 Report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dc6a32f505174fa5",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "2025-11-11.md",
+    "Untitled.canvas",
+    "HW4 Report.md",
+    "2_inv_chain_testbench_schematic.png",
+    "3_libman.png",
+    "2_inv_chain_config.png",
+    "2_inv_chain_layout.png",
+    "2_inv_chain_prop_delay.png",
+    "2_inv_chain_schematic.png",
+    "2_inv_chain_symbol.png",
+    "Welcome.md",
+    "2_inv_chain_calibre_2.png",
+    "2_inv_chain_calibre_1.png",
+    "1_gate_sizing_schematic.png"
+  ]
+}
