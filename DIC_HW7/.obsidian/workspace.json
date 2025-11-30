@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "_Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "_Report"
             }
           }
         ]
@@ -183,9 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c89b523daf5ba1f1",
+  "active": "1ca3a700641d0812",
   "lastOpenFiles": [
     "Screenshot 2025-11-30 062618.png",
+    "_Report.md",
     "SRAM_WRITE_MISSION_2.png",
     "SRAM_WRITE_MISSION_1.png",
     "SRAM_WRITE_MISSION_1.png.ebc7048e.partial",
@@ -202,10 +203,8 @@
     "SRAM_CELL_3_symbol.png",
     "SRAM_CELL_3_symbol.png.23267e3a.partial",
     "SRAM_CELL_3_WRITE.png",
-    "SRAM_CELL_3_wo_cap_schematic.png",
     "SRAM_CELL_3_WRITE.png.d2444dc2.partial",
     "SRAM_CELL_3_wo_cap_schematic.png.46dd0693.partial",
-    "SRAM_CELL_3_schematic.png.7393165c.partial",
-    "Welcome.md"
+    "SRAM_CELL_3_schematic.png.7393165c.partial"
   ]
 }
